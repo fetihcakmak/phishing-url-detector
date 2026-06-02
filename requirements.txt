@@ -1,0 +1,2 @@
+# Standart kütüphane kullanılıyor (re, math, socket, urllib)
+# Ek kurulum gerekmez
